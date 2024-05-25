@@ -75,3 +75,13 @@ cells.forEach((cell, index) => {
 });
 
 checkWinner();
+
+// tasks:
+
+/*
+  implement prior learned concepts
+  as using localStorage
+  make the first player as an option,
+  or change it each time the game starts
+
+*/
